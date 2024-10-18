@@ -1,0 +1,6 @@
+FROM almalinux:9
+ENV Cource="devops with aws" \
+      Trainer="shivakumar" \
+      learner="meerjan" \
+      duration="3.5 months"
+      
